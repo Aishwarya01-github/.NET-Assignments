@@ -1,0 +1,15 @@
+D:\CSE-III\Sem-6\.Net\Lab 1\firstconsoleapp\bin\Debug\net6.0\firstconsoleapp.exe
+D:\CSE-III\Sem-6\.Net\Lab 1\firstconsoleapp\bin\Debug\net6.0\firstconsoleapp.deps.json
+D:\CSE-III\Sem-6\.Net\Lab 1\firstconsoleapp\bin\Debug\net6.0\firstconsoleapp.runtimeconfig.json
+D:\CSE-III\Sem-6\.Net\Lab 1\firstconsoleapp\bin\Debug\net6.0\firstconsoleapp.dll
+D:\CSE-III\Sem-6\.Net\Lab 1\firstconsoleapp\bin\Debug\net6.0\ref\firstconsoleapp.dll
+D:\CSE-III\Sem-6\.Net\Lab 1\firstconsoleapp\bin\Debug\net6.0\firstconsoleapp.pdb
+D:\CSE-III\Sem-6\.Net\Lab 1\firstconsoleapp\obj\Debug\net6.0\firstconsoleapp.csproj.AssemblyReference.cache
+D:\CSE-III\Sem-6\.Net\Lab 1\firstconsoleapp\obj\Debug\net6.0\firstconsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSE-III\Sem-6\.Net\Lab 1\firstconsoleapp\obj\Debug\net6.0\firstconsoleapp.AssemblyInfoInputs.cache
+D:\CSE-III\Sem-6\.Net\Lab 1\firstconsoleapp\obj\Debug\net6.0\firstconsoleapp.AssemblyInfo.cs
+D:\CSE-III\Sem-6\.Net\Lab 1\firstconsoleapp\obj\Debug\net6.0\firstconsoleapp.csproj.CoreCompileInputs.cache
+D:\CSE-III\Sem-6\.Net\Lab 1\firstconsoleapp\obj\Debug\net6.0\firstconsoleapp.dll
+D:\CSE-III\Sem-6\.Net\Lab 1\firstconsoleapp\obj\Debug\net6.0\ref\firstconsoleapp.dll
+D:\CSE-III\Sem-6\.Net\Lab 1\firstconsoleapp\obj\Debug\net6.0\firstconsoleapp.pdb
+D:\CSE-III\Sem-6\.Net\Lab 1\firstconsoleapp\obj\Debug\net6.0\firstconsoleapp.genruntimeconfig.cache
