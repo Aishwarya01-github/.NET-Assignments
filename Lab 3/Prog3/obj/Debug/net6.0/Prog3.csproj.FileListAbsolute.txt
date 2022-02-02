@@ -1,0 +1,15 @@
+D:\CSE-III\Sem-6\.Net\Lab 3\Prog3\bin\Debug\net6.0\Prog3.exe
+D:\CSE-III\Sem-6\.Net\Lab 3\Prog3\bin\Debug\net6.0\Prog3.deps.json
+D:\CSE-III\Sem-6\.Net\Lab 3\Prog3\bin\Debug\net6.0\Prog3.runtimeconfig.json
+D:\CSE-III\Sem-6\.Net\Lab 3\Prog3\bin\Debug\net6.0\Prog3.dll
+D:\CSE-III\Sem-6\.Net\Lab 3\Prog3\bin\Debug\net6.0\ref\Prog3.dll
+D:\CSE-III\Sem-6\.Net\Lab 3\Prog3\bin\Debug\net6.0\Prog3.pdb
+D:\CSE-III\Sem-6\.Net\Lab 3\Prog3\obj\Debug\net6.0\Prog3.csproj.AssemblyReference.cache
+D:\CSE-III\Sem-6\.Net\Lab 3\Prog3\obj\Debug\net6.0\Prog3.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSE-III\Sem-6\.Net\Lab 3\Prog3\obj\Debug\net6.0\Prog3.AssemblyInfoInputs.cache
+D:\CSE-III\Sem-6\.Net\Lab 3\Prog3\obj\Debug\net6.0\Prog3.AssemblyInfo.cs
+D:\CSE-III\Sem-6\.Net\Lab 3\Prog3\obj\Debug\net6.0\Prog3.csproj.CoreCompileInputs.cache
+D:\CSE-III\Sem-6\.Net\Lab 3\Prog3\obj\Debug\net6.0\Prog3.dll
+D:\CSE-III\Sem-6\.Net\Lab 3\Prog3\obj\Debug\net6.0\ref\Prog3.dll
+D:\CSE-III\Sem-6\.Net\Lab 3\Prog3\obj\Debug\net6.0\Prog3.pdb
+D:\CSE-III\Sem-6\.Net\Lab 3\Prog3\obj\Debug\net6.0\Prog3.genruntimeconfig.cache
