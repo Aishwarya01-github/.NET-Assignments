@@ -1,0 +1,15 @@
+D:\CSE-III\Sem-6\.Net\Lab 4\ClassExample\bin\Debug\net6.0\ClassExample.exe
+D:\CSE-III\Sem-6\.Net\Lab 4\ClassExample\bin\Debug\net6.0\ClassExample.deps.json
+D:\CSE-III\Sem-6\.Net\Lab 4\ClassExample\bin\Debug\net6.0\ClassExample.runtimeconfig.json
+D:\CSE-III\Sem-6\.Net\Lab 4\ClassExample\bin\Debug\net6.0\ClassExample.dll
+D:\CSE-III\Sem-6\.Net\Lab 4\ClassExample\bin\Debug\net6.0\ref\ClassExample.dll
+D:\CSE-III\Sem-6\.Net\Lab 4\ClassExample\bin\Debug\net6.0\ClassExample.pdb
+D:\CSE-III\Sem-6\.Net\Lab 4\ClassExample\obj\Debug\net6.0\ClassExample.csproj.AssemblyReference.cache
+D:\CSE-III\Sem-6\.Net\Lab 4\ClassExample\obj\Debug\net6.0\ClassExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSE-III\Sem-6\.Net\Lab 4\ClassExample\obj\Debug\net6.0\ClassExample.AssemblyInfoInputs.cache
+D:\CSE-III\Sem-6\.Net\Lab 4\ClassExample\obj\Debug\net6.0\ClassExample.AssemblyInfo.cs
+D:\CSE-III\Sem-6\.Net\Lab 4\ClassExample\obj\Debug\net6.0\ClassExample.csproj.CoreCompileInputs.cache
+D:\CSE-III\Sem-6\.Net\Lab 4\ClassExample\obj\Debug\net6.0\ClassExample.dll
+D:\CSE-III\Sem-6\.Net\Lab 4\ClassExample\obj\Debug\net6.0\ref\ClassExample.dll
+D:\CSE-III\Sem-6\.Net\Lab 4\ClassExample\obj\Debug\net6.0\ClassExample.pdb
+D:\CSE-III\Sem-6\.Net\Lab 4\ClassExample\obj\Debug\net6.0\ClassExample.genruntimeconfig.cache
