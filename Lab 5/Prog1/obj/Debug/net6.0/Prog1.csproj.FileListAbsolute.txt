@@ -1,0 +1,15 @@
+D:\CSE-III\Sem-6\.Net\Lab 5\Prog1\bin\Debug\net6.0\Prog1.exe
+D:\CSE-III\Sem-6\.Net\Lab 5\Prog1\bin\Debug\net6.0\Prog1.deps.json
+D:\CSE-III\Sem-6\.Net\Lab 5\Prog1\bin\Debug\net6.0\Prog1.runtimeconfig.json
+D:\CSE-III\Sem-6\.Net\Lab 5\Prog1\bin\Debug\net6.0\Prog1.dll
+D:\CSE-III\Sem-6\.Net\Lab 5\Prog1\bin\Debug\net6.0\ref\Prog1.dll
+D:\CSE-III\Sem-6\.Net\Lab 5\Prog1\bin\Debug\net6.0\Prog1.pdb
+D:\CSE-III\Sem-6\.Net\Lab 5\Prog1\obj\Debug\net6.0\Prog1.csproj.AssemblyReference.cache
+D:\CSE-III\Sem-6\.Net\Lab 5\Prog1\obj\Debug\net6.0\Prog1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSE-III\Sem-6\.Net\Lab 5\Prog1\obj\Debug\net6.0\Prog1.AssemblyInfoInputs.cache
+D:\CSE-III\Sem-6\.Net\Lab 5\Prog1\obj\Debug\net6.0\Prog1.AssemblyInfo.cs
+D:\CSE-III\Sem-6\.Net\Lab 5\Prog1\obj\Debug\net6.0\Prog1.csproj.CoreCompileInputs.cache
+D:\CSE-III\Sem-6\.Net\Lab 5\Prog1\obj\Debug\net6.0\Prog1.dll
+D:\CSE-III\Sem-6\.Net\Lab 5\Prog1\obj\Debug\net6.0\ref\Prog1.dll
+D:\CSE-III\Sem-6\.Net\Lab 5\Prog1\obj\Debug\net6.0\Prog1.pdb
+D:\CSE-III\Sem-6\.Net\Lab 5\Prog1\obj\Debug\net6.0\Prog1.genruntimeconfig.cache
