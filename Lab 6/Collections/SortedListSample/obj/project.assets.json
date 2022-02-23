@@ -8,27 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\praja\\.nuget\\packages\\": {}
+    "C:\\Users\\apm20\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET WrokSpace\\LAB-5\\SortedListSample\\SortedListSample.csproj",
+      "projectUniqueName": "D:\\CSE-III\\Sem-6\\.Net\\Lab 6\\Collections\\SortedListSample\\SortedListSample.csproj",
       "projectName": "SortedListSample",
-      "projectPath": "D:\\.NET WrokSpace\\LAB-5\\SortedListSample\\SortedListSample.csproj",
-      "packagesPath": "C:\\Users\\praja\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET WrokSpace\\LAB-5\\SortedListSample\\obj\\",
+      "projectPath": "D:\\CSE-III\\Sem-6\\.Net\\Lab 6\\Collections\\SortedListSample\\SortedListSample.csproj",
+      "packagesPath": "C:\\Users\\apm20\\.nuget\\packages\\",
+      "outputPath": "D:\\CSE-III\\Sem-6\\.Net\\Lab 6\\Collections\\SortedListSample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\praja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\apm20\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
-      "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
-      },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",

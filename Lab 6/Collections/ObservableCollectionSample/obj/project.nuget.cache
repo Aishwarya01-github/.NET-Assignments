@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pZYKPtbTZPU24YwyH4iTglNm/W6fGXPhrlBv82XEGNpJpVYai3cL75if0e+/VffEh5mMWvMrX1ymD9Z21RWzJg==",
+  "dgSpecHash": "mMb1GHHZb17gx+lpxPLpruGJRe3M7v6fr2QmkHWCVVJe2y0eJi44Urf+4bf8aGAIOtd8GKj+YcNvvDHYFzEBBg==",
   "success": true,
-  "projectFilePath": "D:\\.NET WrokSpace\\LAB-5\\ObservableCollectionSample\\ObservableCollectionSample.csproj",
+  "projectFilePath": "D:\\CSE-III\\Sem-6\\.Net\\Lab 6\\Collections\\ObservableCollectionSample\\ObservableCollectionSample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

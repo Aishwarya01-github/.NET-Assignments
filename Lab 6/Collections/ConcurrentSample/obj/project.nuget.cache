@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gJTPv6PfiQFElWqeFZt+1+hef2xvyRoRtbA82fyFbQxwGKXTVannD9yKLGWR9EuKAVd3ezJKE0zLBaI/fN1FFg==",
+  "dgSpecHash": "3ewu8+0WZ/F4Wnnd0llfBttK3NF1MCoR1v/xywF4xNccue2VwRHORRBbxJ5y/tL15+bnRiKBhRSKTNhm9uJneg==",
   "success": true,
-  "projectFilePath": "D:\\.NET WrokSpace\\LAB-5\\ConcurrentSample\\ConcurrentSample.csproj",
+  "projectFilePath": "D:\\CSE-III\\Sem-6\\.Net\\Lab 6\\Collections\\ConcurrentSample\\ConcurrentSample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
