@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "5iH9BhIuxggHbTPsCwneDWhhguA7APXOPC/MrhWMjbzzNdrQFYxtvCsKnoOYJ7pSCHNPrA5mEUJ9n3Pip5oVfw==",
+  "success": false,
+  "projectFilePath": "D:\\CSE-III\\Sem-6\\.Net\\mvcProj\\mvcProj.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore (>= 6.0.3)' for 'net6.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore.Design (>= 6.0.3)' for 'net6.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore.SqlServer (>= 6.0.3)' for 'net6.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
